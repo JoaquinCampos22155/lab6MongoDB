@@ -1,0 +1,1 @@
+# lab6MongoDB
